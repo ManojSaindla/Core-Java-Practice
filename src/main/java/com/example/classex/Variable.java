@@ -37,7 +37,7 @@ public class Variable {
 		 //variables names are case sensitive
 		System.out.println(names);
 		String NAMES = "SAINDLA";
-		System.out.println(NAMES);
+		System.out.println(NAMES); 
 	}
 
 }
