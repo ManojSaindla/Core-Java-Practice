@@ -15,6 +15,7 @@ public class SingleDimensionArray {
 for(int i=0;i<j.length;i++) {
 		System.out.println(j[i]);
 	}
+System.out.println("The arrays has completed intializing");
 	}
 
 }
